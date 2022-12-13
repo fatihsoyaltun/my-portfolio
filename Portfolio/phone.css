@@ -1,0 +1,79 @@
+nav {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
+nav ul {
+  width: 100%;
+  display: block;
+  margin-top: 2rem;
+}
+nav ul li a {
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+}
+.header-text {
+  text-align: center;
+}
+.header-text p {
+  font-size: 30px;
+  border-bottom: 1px solid #ff004f;
+}
+.header-text h1 {
+  font-size: 20px;
+  text-align: center;
+}
+.row {
+  display: block;
+}
+
+.row .col-1 {
+  width: 100%;
+}
+
+.row .col-2 {
+  width: 100%;
+}
+
+.row .col-2 h1,
+p {
+  text-align: center;
+}
+
+.tab-titles {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.services-list {
+  display: block;
+  width: 100%;
+}
+
+.work-list {
+  display: block;
+}
+
+.work {
+  width: 100%;
+  margin: 0.5rem auto;
+}
+
+.contact-row {
+  display: block;
+}
+.contact-left {
+  width: 100%;
+  text-align: center;
+}
+
+.contact-left .sub-title {
+  text-align: center;
+}
+
+.contact-right {
+  width: 100%;
+  text-align: center;
+}
